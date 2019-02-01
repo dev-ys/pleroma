@@ -1,0 +1,12 @@
+Unliking:
+
+- Add a proper undo activity, find out how to ignore those in twitter api.
+
+WEBSUB:
+
+- Add unsubscription
+
+OSTATUS:
+
+- Save and output 'updated'
+
